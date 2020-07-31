@@ -1,9 +1,8 @@
-### Hi there👋
 [![flyhigh][banner]]
-
-### I'm Aksahy Chandran, passionate web-developer from India.
-####  Python🐍, I primerly uses [Django][django], Django-Rest also learning javascript aiming a full-stack 🏠.
-
+### Hi there👋
+### I'm Aksahy Chandran,a passionate web-developer from India.
+#### 💗[Python][python]🐍, I primerly uses [Django][django], [Django-Rest][django_rest] also learning [javascript][javascript] aiming a full-stack 🏠.
+I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Institute of Technology, kottayam. 
 <!--
 **Akshay-ch-dj/Akshay-ch-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,8 +42,8 @@ Here are some ideas to get you started:
 [javascript]: https://www.javascript.com/
 [vue]: https://vuejs.org/
 [python]: https://www.python.org/
-[Django]: https://www.djangoproject.com/
-[Django_rest]: https://www.django-rest-framework.org/
+[django]: https://www.djangoproject.com/
+[django_rest]: https://www.django-rest-framework.org/
 [docker]: https://www.docker.com/
 [travis]: https://travis-ci.org/
 [freecodecamp]: https://www.freecodecamp.org/
