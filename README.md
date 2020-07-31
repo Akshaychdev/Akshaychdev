@@ -34,7 +34,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 # Skills #
  
-- Programming Languages - <img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?color=597fbd&label=Python&logo=Python&logoColor=White&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/static/v1/?color=Green&label=C&logo=C&logoColor=6c7480&style=for-the-badge">
+- Programming Languages - <img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=6c7480&style=for-the-badge">
 
 - Web Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
 
