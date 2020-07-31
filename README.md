@@ -2,7 +2,7 @@
 [![flyhigh][banner]]
 
 ### I'm Aksahy Chandran, passionate web-developer from India.
-#### Likes Python🐍, I primerly uses Django, Django-Rest also learning javascript aiming a full-stack 🏠.
+####  Python🐍, I primerly uses [Django][django], Django-Rest also learning javascript aiming a full-stack 🏠.
 
 <!--
 **Akshay-ch-dj/Akshay-ch-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-constantin-lungu-73b751101/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sabinlunguu/)
 
-[banner]: https://raw.githubusercontent.com/bradgarropy/bradgarropy/master/banner.png
+[banner]: #
 [javascript]: https://www.javascript.com/
 [vue]: https://vuejs.org/
 [python]: https://www.python.org/
