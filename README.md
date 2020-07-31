@@ -21,7 +21,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 -💬 Ask me about python, Django, my repo's projects
 -📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
 <!-- 😄 Pronouns: ...-->
--⚡ Fun fact: #### Potterhead🧹️, 🎧ARR, 90's kids 
+-⚡ Fun fact: #### Potterhead ####🧹️, 🎧ARR, 90's kids 
 
 <!--🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -30,13 +30,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]-->
-<style>
-  body{
-    background-color: pink; 
-  }
- </style>
  
-<body>
 - Web Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
 
 
@@ -61,4 +55,3 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 [vagrant]: https://www.vagrantup.com/
 [potterhead]: https://www.wizardingworld.com/
 [discord]: https://discord.com/
-</body>
