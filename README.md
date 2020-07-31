@@ -9,19 +9,23 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Akshay-ch-dj)
 
--💜 loving [Python][python]🐍, [Django][django] 
--🔭 I’m currently working on,
-  - usedbrains- A website to sell  and buy used laptops, spare laptop components 
-  - Working on [freecodecamp][freecodecamp] projects.
--🌱 I’m currently learning
-  - Frontend libraries in freecodecamp.
-  - [Vue.js][vue] and [javascript][javascript]
--👯 I’m looking to collaborate on: <h4>Open Source Projects</h4>.
+💜 loving [Python][python]🐍, [Django][django] 
+
+🔭 I’m currently working on,
+   usedbrains- A website to sell  and buy used laptops, spare laptop components 
+   Working on [freecodecamp][freecodecamp] projects.
+   
+🌱 I’m currently learning
+   Frontend libraries in freecodecamp.
+   [Vue.js][vue] and [javascript][javascript]
+   
+👯 I’m looking to collaborate on: <h4>Open Source Projects</h4>.
 <!-- 🤔 I’m looking for help with ...-->
--💬 Ask me about python, Django, my repo's projects
--📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
+- 💬 Ask me about python, Django, my repo's projects
+
+📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
 <!-- 😄 Pronouns: ...-->
--⚡ Fun fact: #### Potterhead ####🧹️, 🎧ARR, 90's kids 
+⚡ Fun fact: **Potterhead**🧹️, 🎧ARR, 90's kids 
 
 <!--🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
