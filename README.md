@@ -2,7 +2,8 @@
 ### Hi there👋
 ### I'm Aksahy Chandran,a passionate web-developer from India.
 #### 💗[Python][python]🐍, I primerly uses [Django][django], [Django-Rest][django_rest] also learning [javascript][javascript] aiming a full-stack 🏠.
-Looking to contribute on open-source projects, 👨‍👩‍👦‍👦
+Looking to contribute on open-source projects, loves Teamwork👨‍👩‍👦‍👦.
+
 I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Institute of Technology, kottayam. 
 <!--
 **Akshay-ch-dj/Akshay-ch-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,14 +13,17 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on,
-   - Building a website for buying and selling used laptops, laptop components 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+   - usedbrains- A website to sell  and buy used laptops, spare laptop components 
+   - Working on [freecodecamp][freecodecamp] projects.
+- 🌱 I’m currently learning
+   - Frontend libraries in freecodecamp.
+   - learning [Vue.js][vue] and [javascript][javascript]
+- 👯 I’m looking to collaborate on: <h4>Open Source Projects</h4>.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about python, Django, my repo's projects
+- 📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: #### Potterhead🧹️, 🎧ARR, 90's kids 
 -->
 
 🧠 learning [javascript][javascript] and [vue.js][vue]  
@@ -56,3 +60,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/akshay-chandran/
 [vagrant]: https://www.vagrantup.com/
 [potterhead]: https://www.wizardingworld.com/
+[discord]: https://discord.com/
