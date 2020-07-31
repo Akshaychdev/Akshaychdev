@@ -21,7 +21,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 - 📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Docker-0066cc?style=flat&logo=Docker&logoColor=4da6ff)][discord]: ([Akshay_wdev#5871][discord]).
 <!-- 😄 Pronouns: ...-->
-- ⚡ Bio: **Potterhead**🧹️, 🎧**ARR**, 90's kids <img src="https://img.shields.io/badge/-SWAG-ff9f40?style=social&logo=Windows-XP&logoColor=1c56ba">
+- ⚡ Bio: **Potterhead**[🧹️][potterhead], 🎧**ARR**, 90's kids <img src="https://img.shields.io/badge/-SWAG-ff9f40?style=social&logo=Windows-XP&logoColor=1c56ba">
 
 <!--🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
