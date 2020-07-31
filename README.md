@@ -1,4 +1,4 @@
-[![flyhigh][banner]]
+<!--[![flyhigh][banner]]-->
 ### Hi there👋
 ### I'm Aksahy Chandran,a passionate web-developer from India, primerly uses [Python][python], [Django][django], [Django-Rest][django_rest] also learning [javascript][javascript] aiming a full-stack 🏠.
 #### Looking to contribute on open-source projects, loves Teamwork👨‍👩‍👦‍👦.
