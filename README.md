@@ -11,9 +11,9 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 - 💜 loving [Python][python]🐍, [Django][django] 
 
-- 🔭 Currently working on: **usedbrains**- A website to sell and buy used laptops and parts, also working on [freecodecamp][freecodecamp] projects.
+- 🔭 **Currently working on**: **usedbrains**- A website to sell and buy used laptops and parts, also working on [freecodecamp][freecodecamp] projects.
  
-- 🌱 Currently learning: frontend libraries in freecodecamp, also [Vue.js][vue] and [javascript][javascript].
+- 🌱 **Currently learning**: frontend libraries in freecodecamp, also [Vue.js][vue] and [javascript][javascript].
    
 - 👯 I’m looking to collaborate on: **Open Source Projects**.
 <!-- 🤔 I’m looking for help with ...-->
