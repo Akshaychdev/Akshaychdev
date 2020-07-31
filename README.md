@@ -10,22 +10,19 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 
-
+💜 loving [Python][python], [Django][django] 
 🔭 I’m currently working on,
   - usedbrains- A website to sell  and buy used laptops, spare laptop components 
   - Working on [freecodecamp][freecodecamp] projects.
-- 🌱 I’m currently learning
-   - Frontend libraries in freecodecamp.
-   - learning [Vue.js][vue] and [javascript][javascript]
-- 👯 I’m looking to collaborate on: <h4>Open Source Projects</h4>.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about python, Django, my repo's projects
-- 📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: #### Potterhead🧹️, 🎧ARR, 90's kids 
-
-🧠 learning [javascript][javascript] and [vue.js][vue]  
-💜 loving [Python][python], [Django][django] 
+🌱 I’m currently learning
+  - Frontend libraries in freecodecamp.
+  - [Vue.js][vue] and [javascript][javascript]
+👯 I’m looking to collaborate on: <h4>Open Source Projects</h4>.
+<!-- 🤔 I’m looking for help with ...-->
+💬 Ask me about python, Django, my repo's projects
+📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
+<!-- 😄 Pronouns: ...-->
+⚡ Fun fact: #### Potterhead🧹️, 🎧ARR, 90's kids 
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
