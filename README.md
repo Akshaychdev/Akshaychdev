@@ -19,7 +19,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about python, Django, my repo's and projects
 
-- 📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=4da6ff)][discord]: ([Akshay_wdev#5871][discord]).
+- 📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=002b59)][discord]: ([Akshay_wdev#5871][discord]).
 <!-- 😄 Pronouns: ...-->
 - ⚡ Bio: **Potterhead**[🧹️][potterhead], 🎧**ARR**, 90's kids <img src="https://img.shields.io/badge/-SWAG-ff9f40?style=social&logo=Windows-XP&logoColor=1c56ba">
 
@@ -33,7 +33,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 # Skills #
  
-- Programming Languages - [<img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=flat-square">][python] [<img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=flat-square">]
+- Programming Languages - [<img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=flat-square">][python] <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=flat-square">
 
 - Web Languages - [<img alt="HTML5" src="https://img.shields.io/badge/-HTML-Red?logo=HTML5&logoColor=White&style=flat-square">][html5] [<img alt="CSS3" src="https://img.shields.io/badge/-CSS-00804a?logo=CSS3&logoColor=c9f2d8&style=flat-square">][css3]
 
