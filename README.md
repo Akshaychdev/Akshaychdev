@@ -34,14 +34,14 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 # Skills #
  
-- Programming Languages - <img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=for-the-badge"> <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=for-the-badge">
+- Programming Languages - <img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=flat-square"> <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=flat-square">
 
-- Web Languages - <img alt="HTML5" src="https://img.shields.io/badge/-HTML-Red?logo=HTML5&logoColor=White&style=for-the-badge"> <img alt="CSS3" src="https://img.shields.io/badge/-CSS-00804a?logo=CSS3&logoColor=c9f2d8&style=for-the-badge">
+- Web Languages - <img alt="HTML5" src="https://img.shields.io/badge/-HTML-Red?logo=HTML5&logoColor=White&style=flat-square"> <img alt="CSS3" src="https://img.shields.io/badge/-CSS-00804a?logo=CSS3&logoColor=c9f2d8&style=flat-square">
 
-- Libraries/Frameworks - <img alt="Django" src="https://img.shields.io/badge/-Django-2f5c46?logo=Django&logoColor=Green&style=for-the-badge"> <img alt="vue" src="https://img.shields.io/badge/-Vue.js-38c981?logo=Vue.js&logoColor=White&style=for-the-badge">
+- Libraries/Frameworks - <img alt="Django" src="https://img.shields.io/badge/-Django-2f5c46?logo=Django&logoColor=Green&style=flat-square"> <img alt="vue" src="https://img.shields.io/badge/-Vue.js-38c981?logo=Vue.js&logoColor=White&style=flat-square">
 
-- Databases - <img alt="Postgress" src="https://img.shields.io/badge/-PostgreSQL-368abf?logo=PostgreSQL&logoColor=00406e&style=for-the-badge"> 
-- Tools - <img alt="Docker" src="https://img.shields.io/badge/-Docker-0083bf?logo=Docker&logoColor=White&style=for-the-badge"> <img alt="Travis" src="https://img.shields.io/badge/-Travis-Yellow?logo=Travis&logoColor=Yelllow&style=for-the-badge"> <img alt="Git" src="https://img.shields.io/badge/-Git-Red?logo=Git&logoColor=White&style=for-the-badge">
+- Databases - <img alt="Postgress" src="https://img.shields.io/badge/-PostgreSQL-368abf?logo=PostgreSQL&logoColor=00406e&style=flat-square"> 
+- Tools - <img alt="Docker" src="https://img.shields.io/badge/-Docker-0083bf?logo=Docker&logoColor=White&style=flat-square"> <img alt="Travis" src="https://img.shields.io/badge/-Travis-Yellow?logo=Travis&logoColor=Yelllow&style=flat-square"> <img alt="Git" src="https://img.shields.io/badge/-Git-Red?logo=Git&logoColor=White&style=flat-square">
 
 [banner]: #
 [javascript]: https://www.javascript.com/
