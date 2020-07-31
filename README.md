@@ -36,7 +36,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
  
 - Programming Languages - <img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=for-the-badge"> <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=for-the-badge">
 
-- Web Languages - <img alt="HTML5" src="https://img.shields.io/badge/-HTML-Red?logo=HTML5&logoColor=White&style=for-the-badge"> <img alt="CSS3" src="https://img.shields.io/badge/-CSS/?logo=CSS3&logoColor=Blue&style=for-the-badge">
+- Web Languages - <img alt="HTML5" src="https://img.shields.io/badge/-HTML-Red?logo=HTML5&logoColor=White&style=for-the-badge"> <img alt="CSS3" src="https://img.shields.io/badge/-CSS-/?logo=CSS3&logoColor=Blue&style=for-the-badge">
 
 - Libraries/Frameworks - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=2f5c46&label=Django&logo=Django&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=ExpressJS&logo=JavaScript&logoColor=Green&style=for-the-badge">
 
