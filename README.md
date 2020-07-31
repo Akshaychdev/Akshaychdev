@@ -20,7 +20,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 <!-- 🤔 I’m looking for help with ...-->
 💬 Ask me about python, Django, my repo's, my projects
 
-📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
+📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=#4da6ff)][discord]: Akshay_wdev#5871.
 <!-- 😄 Pronouns: ...-->
 ⚡ Fun fact: **Potterhead**🧹️, 🎧ARR, 90's kids 
 
@@ -31,13 +31,23 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]-->
+
+# Skills #
  
+- Programming Languages - <img alt="python" src="https://img.shields.io/badge/--000?style=flat&logo=Python&logoColor=#0080ff"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=C%23&logo=C%20Sharp&logoColor=Green&style=for-the-badge">
+
+Web Languages - Plugin on redmine.org Plugin on redmine.org
+
+Libraries/Frameworks - Plugin on redmine.org Plugin on redmine.org
+
+Databases - Plugin on redmine.org Plugin on redmine.org
+
+Tools - Plugin on redmine.org Plugin on redmine.org Plugin on redmine.org
 - Web Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
 
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sabinlungudotcpp)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sabin-constantin-lungu-73b751101/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/sabinlunguu/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Akshay-ch-dj)
+https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=#4da6ff
 
 [banner]: #
 [javascript]: https://www.javascript.com/
