@@ -11,17 +11,14 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 💜 loving [Python][python]🐍, [Django][django] 
 
-🔭 I’m currently working on,
-   usedbrains- A website to sell  and buy used laptops, spare laptop components 
-   Working on [freecodecamp][freecodecamp] projects.
+🔭 I’m currently working on, **usedbrains**- A website to sell  and buy used laptops and spare laptop components also 
+   working on [freecodecamp][freecodecamp] projects.
+ 
+🌱 I’m currently learning frontend libraries in freecodecamp, [Vue.js][vue] and [javascript][javascript].
    
-🌱 I’m currently learning
-   Frontend libraries in freecodecamp.
-   [Vue.js][vue] and [javascript][javascript]
-   
-👯 I’m looking to collaborate on: <h4>Open Source Projects</h4>.
+👯 I’m looking to collaborate on: **Open Source Projects**.
 <!-- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about python, Django, my repo's projects
+💬 Ask me about python, Django, my repo's, my projects
 
 📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
 <!-- 😄 Pronouns: ...-->
