@@ -36,18 +36,14 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
  
 - Programming Languages - <img alt="python" src="https://img.shields.io/badge/-Python-#1a8cff?style=for-the-badge&logo=Python&logoColor=#0080ff"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=C%23&logo=C%20Sharp&logoColor=Green&style=for-the-badge">
 
-Web Languages - Plugin on redmine.org Plugin on redmine.org
+- Programming Languages - <img alt="Python" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=597fbd&label=Python&logo=Python&logoColor=Black&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=C&logo=C&logoColor=6c7480&style=for-the-badge">
 
-Libraries/Frameworks - Plugin on redmine.org Plugin on redmine.org
-
-Databases - Plugin on redmine.org Plugin on redmine.org
-
-Tools - Plugin on redmine.org Plugin on redmine.org Plugin on redmine.org
 - Web Languages - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=HTML&logo=HTML5&logoColor=Red&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=CSS&logo=CSS3&logoColor=Blue&style=for-the-badge">
 
+- Libraries/Frameworks - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=2f5c46&label=Django&logo=Django&logoColor=Green&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=ExpressJS&logo=JavaScript&logoColor=Green&style=for-the-badge">
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Akshay-ch-dj)
-https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=#4da6ff
+- Databases - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=PostgreSQL&logo=PostgreSQL&logoColor=Blue&style=for-the-badge"> 
+- Tools - <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Blue&label=Docker&logo=Docker&logoColor=Blue&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Yellow&label=Travis&logo=Travis&logoColor=Yelllow&style=for-the-badge"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Red&label=Git&logo=Git&logoColor=Red&style=for-the-badge">
 
 [banner]: #
 [javascript]: https://www.javascript.com/
