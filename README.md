@@ -12,9 +12,9 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on,
-   - usedbrains- A website to sell  and buy used laptops, spare laptop components 
-   - Working on [freecodecamp][freecodecamp] projects.
+🔭 I’m currently working on,
+  - usedbrains- A website to sell  and buy used laptops, spare laptop components 
+  - Working on [freecodecamp][freecodecamp] projects.
 - 🌱 I’m currently learning
    - Frontend libraries in freecodecamp.
    - learning [Vue.js][vue] and [javascript][javascript]
