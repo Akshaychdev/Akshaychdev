@@ -20,7 +20,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about python, Django, my repo's, my projects
 
-- 📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Docker-#0066cc?style=flat&logo=Docker&logoColor=#4da6ff)][discord]: [Akshay_wdev#5871][discord].
+- 📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Docker-0066cc?style=flat&logo=Docker&logoColor=4da6ff)][discord]: [Akshay_wdev#5871][discord].
 <!-- 😄 Pronouns: ...-->
 - ⚡ Bio: **Potterhead**🧹️, 🎧ARR, 90's kids 
 
