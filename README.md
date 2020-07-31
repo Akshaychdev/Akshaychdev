@@ -6,11 +6,10 @@ Looking to contribute on open-source projects, loves Teamwork👨‍👩‍👦�
 
 I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Institute of Technology, kottayam. 
 <!--
-**Akshay-ch-dj/Akshay-ch-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Akshay-ch-dj/Akshay-ch-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 
-Here are some ideas to get you started:
 
 🔭 I’m currently working on,
   - usedbrains- A website to sell  and buy used laptops, spare laptop components 
@@ -24,7 +23,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can find me on [Linkedin][linkedin], [Discord][discord]: Akshay_wdev#5871.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: #### Potterhead🧹️, 🎧ARR, 90's kids 
--->
 
 🧠 learning [javascript][javascript] and [vue.js][vue]  
 💜 loving [Python][python], [Django][django] 
