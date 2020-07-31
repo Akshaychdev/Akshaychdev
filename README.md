@@ -9,20 +9,20 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Akshay-ch-dj)
 
-💜 loving [Python][python]🐍, [Django][django] 
+- 💜 loving [Python][python]🐍, [Django][django] 
 
-🔭 I’m currently working on, **usedbrains**- A website to sell  and buy used laptops and spare laptop components also 
+- 🔭 I’m currently working on, **usedbrains**- A website to sell  and buy used laptops and spare laptop components also 
    working on [freecodecamp][freecodecamp] projects.
  
-🌱 I’m currently learning frontend libraries in freecodecamp, [Vue.js][vue] and [javascript][javascript].
+- 🌱 I’m currently learning frontend libraries in freecodecamp, [Vue.js][vue] and [javascript][javascript].
    
-👯 I’m looking to collaborate on: **Open Source Projects**.
+- 👯 I’m looking to collaborate on: **Open Source Projects**.
 <!-- 🤔 I’m looking for help with ...-->
-💬 Ask me about python, Django, my repo's, my projects
+- 💬 Ask me about python, Django, my repo's, my projects
 
-📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Docker-000?style=flat&logo=Docker&logoColor=#4da6ff)][discord]: Akshay_wdev#5871.
+- 📫 How to reach me: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Docker-#0066cc?style=flat&logo=Docker&logoColor=#4da6ff)][discord]: [Akshay_wdev#5871][discord].
 <!-- 😄 Pronouns: ...-->
-⚡ Fun fact: **Potterhead**🧹️, 🎧ARR, 90's kids 
+- ⚡ Bio: **Potterhead**🧹️, 🎧ARR, 90's kids 
 
 <!--🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
@@ -34,7 +34,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 # Skills #
  
-- Programming Languages - <img alt="python" src="https://img.shields.io/badge/--000?style=flat&logo=Python&logoColor=#0080ff"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=C%23&logo=C%20Sharp&logoColor=Green&style=for-the-badge">
+- Programming Languages - <img alt="python" src="https://img.shields.io/badge/-Python-#1a8cff?style=for-the-badge&logo=Python&logoColor=#0080ff"> <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=Green&label=C%23&logo=C%20Sharp&logoColor=Green&style=for-the-badge">
 
 Web Languages - Plugin on redmine.org Plugin on redmine.org
 
