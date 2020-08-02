@@ -33,7 +33,7 @@ I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Instit
 
 # Skills #
  
-- Programming Languages - [<img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=flat-square">][python] <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=flat-square"> [<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-fa801b?logo=Javascript&logoColor=White&style=flat-square">][javascript]
+- Programming Languages - [<img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=flat-square">][python] [<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f79328?logo=Javascript&logoColor=White&style=flat-square">][javascript] <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=flat-square"> 
 
 - Web Languages - [<img alt="HTML5" src="https://img.shields.io/badge/-HTML-Red?logo=HTML5&logoColor=White&style=flat-square">][html5] [<img alt="CSS3" src="https://img.shields.io/badge/-CSS-00804a?logo=CSS3&logoColor=c9f2d8&style=flat-square">][css3]
 
