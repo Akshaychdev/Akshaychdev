@@ -1,5 +1,6 @@
 <!--[![flyhigh][banner]]-->
-### Hi there👋
+### Hi there <img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/master/images/wave.gif?raw=true" width="30px">
+
 ### I'm Aksahy Chandran,a passionate web-developer from India, primerly uses [Python][python], [Django][django], [Django-Rest][django_rest] also learning [javascript][javascript] aiming🔭 a full-stack 🏠.
 #### Looking to contribute on open-source projects, 💞 Teamwork👨‍👩‍👦‍👦.
 
