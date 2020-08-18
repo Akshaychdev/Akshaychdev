@@ -4,7 +4,7 @@
 ### I'm Aksahy Chandran,a passionate web-developer from India, primerly uses [Python][python], [Django][django], [Django-Rest][django_rest] also learning [javascript][javascript] aiming🔭 a full-stack 🏠.
 #### Looking to contribute on open-source projects, 💞 Teamwork👨‍👩‍👦‍👦.
 
-I pursued a B.tech Degree in Electrical and Electronics from Rajiv Gandhi Institute of Technology, kottayam. Loves DIY, Sci-Fi movies, music...
+EEE B. tech  from RIT, kottayam. Loves DIY, Sci-Fi movies, music...
 <!--
 **Akshay-ch-dj/Akshay-ch-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
