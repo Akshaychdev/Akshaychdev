@@ -59,5 +59,5 @@ Loves DIY<img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/ma
 [linkedin]: https://www.linkedin.com/in/akshay-chandran/
 [vagrant]: https://www.vagrantup.com/
 [potterhead]: https://www.wizardingworld.com/
-[discord]: https://discord.com/
+[discord]: https://discord.gg/D8hyQsF
 [git]: https://git-scm.com/
