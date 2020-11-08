@@ -12,7 +12,7 @@ Loves DIY<img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/ma
 
 - 💜 **Loving** [Python][python]🐍, [Django][django] 
 
-- 🔭 **Currently working on**: ***Usedbrains***- A website to sell and buy used laptops and parts, also working on [freecodecamp][freecodecamp] projects.
+- 🔭 **Currently working on**: ***Audiobook store***- A website to post and buy audiobooks, also working on [javascript](https://github.com/Akshay-ch-dj/Javascript-experience-projects) projects.
  
 - 🌱 **Currently learning**: frontend libraries in freecodecamp, also [Vue.js][vue] and [javascript][javascript].
    
