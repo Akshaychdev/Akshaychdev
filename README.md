@@ -14,7 +14,7 @@ Loves DIY<img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/ma
 
 - 🔭 **Currently working on**: ***Audiobook store***- A website to post and buy audiobooks, also working on [javascript](https://github.com/Akshay-ch-dj/Javascript-experience-projects) projects.
  
-- 🌱 **Currently learning**: frontend libraries in freecodecamp, also [Vue.js][vue] and [javascript][javascript].
+- 🌱 **Currently learning**: [javascript][javascript], [Vue.js][vue] and frontend libraries in freecodecamp.
    
 - 👯 I’m looking to collaborate on: **Open Source Projects**.
 <!-- 🤔 I’m looking for help with ...-->
