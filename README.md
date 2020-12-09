@@ -1,6 +1,5 @@
 <!--[![flyhigh][banner]]-->
-### Hi there <img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/master/images/wave.gif?raw=true" width="30px">
-
+### Hi there <img src="https://github.com/Akshaychdev/Freecodecamp-projects/blob/master/images/wave.gif?raw=true" width="30px">
 ### I'm Aksahy Chandran,a passionate web-developer from India, primerly uses [Python][python], [Django][django], [Django-Rest][django_rest] also learning [javascript][javascript] aiming🔭 a full-stack 🏠.
 #### Looking to contribute on open-source projects, 💞 Teamwork👨‍👩‍👦‍👦.
 
@@ -14,13 +13,15 @@ Loves DIY<img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/ma
 
 - 🔭 **Currently working on**: ***Audiobook store***- A website to post and buy audiobooks, also working on [javascript](https://github.com/Akshay-ch-dj/Javascript-experience-projects) projects.
  
-- 🌱 **Currently learning**: [javascript][javascript], [Vue.js][vue] and frontend libraries in freecodecamp.
+- 🌱 **Currently learning**: [javascript][javascript], [Vue.js][vue], frontend libraries in freecodecamp and Automation with python in coursera.
    
 - 👯 I’m looking to collaborate on: **Open Source Projects**.
 <!-- 🤔 I’m looking for help with ...-->
 - 💬 **Ask me about** python, Django, my repo's and projects
 
-- 📫 **How to reach me**: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=002b59)][discord]: ([Akshay_wdev#5871][discord]).
+- 🎓 **certifications** my [certifications][certification].
+
+- 📫 **How to reach me**: You can find me on [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)][Telegram], [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=002b59)][discord]: ([Akshay_wdev#5871][discord]).
 <!-- 😄 Pronouns: ...-->
 - ⚡ Bio: **Potterhead**[🧹️][potterhead], 🎧**ARR**, 90's kids <img src="https://img.shields.io/badge/-SWAG-ff9f40?style=social&logo=Windows-XP&logoColor=1c56ba">
 
@@ -34,14 +35,14 @@ Loves DIY<img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/ma
 
 # Skills #
  
-- Programming Languages - [<img alt="Python" src="https://img.shields.io/badge/-Python-597fbd?logo=Python&logoColor=White&style=flat-square">][python] [<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f79328?logo=Javascript&logoColor=White&style=flat-square">][javascript] <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=flat-square"> 
+- Programming Languages - [<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat-square">][python] [<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f79328?logo=Javascript&logoColor=White&style=flat-square">][javascript] <img alt="C" src="https://img.shields.io/badge/-5d646e?logo=C&logoColor=e6f0ff&style=flat-square"> 
 
 - Web Languages - [<img alt="HTML5" src="https://img.shields.io/badge/-HTML-Red?logo=HTML5&logoColor=White&style=flat-square">][html5] [<img alt="CSS3" src="https://img.shields.io/badge/-CSS-00804a?logo=CSS3&logoColor=c9f2d8&style=flat-square">][css3]
 
-- Libraries/Frameworks - [<img alt="Django" src="https://img.shields.io/badge/-Django-2f5c46?logo=Django&logoColor=Green&style=flat-square">][django] [<img alt="vue" src="https://img.shields.io/badge/-Vue.js-38c981?logo=Vue.js&logoColor=White&style=flat-square">][vue] [<img alt="djangorest" src="https://img.shields.io/badge/-Django Rest-a85b02?logo=Django&logoColor=White&style=flat-square">][django_rest]
+- Libraries/Frameworks - [<img alt="Django" src="https://img.shields.io/badge/-Django-2f5c46?logo=Django&logoColor=Green&style=flat-square">][django] [<img alt="vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=flat-square">][vue] [<img alt="djangorest" src="https://img.shields.io/badge/-Django Rest-a85b02?logo=Django&logoColor=White&style=flat-square">][django_rest]
 
 - Databases - [<img alt="Postgress" src="https://img.shields.io/badge/-PostgreSQL-368abf?logo=PostgreSQL&logoColor=00406e&style=flat-square">][postgresql] 
-- Tools - [<img alt="Docker" src="https://img.shields.io/badge/-Docker-0083bf?logo=Docker&logoColor=White&style=flat-square">][docker] [<img alt="Travis" src="https://img.shields.io/badge/-Travis-Yellow?logo=Travis&logoColor=Yelllow&style=flat-square">][travis] [<img alt="Git" src="https://img.shields.io/badge/-Git-Red?logo=Git&logoColor=White&style=flat-square">][git]
+- Tools - [<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=flat-square">][docker] [<img alt="Travis" src="https://img.shields.io/badge/-Travis-Yellow?logo=Travis&logoColor=Yelllow&style=flat-square">][travis] [<img alt="Git" src="https://img.shields.io/badge/-Git-Red?logo=Git&logoColor=White&style=flat-square">][git]
 
 [banner]: #
 [javascript]: https://www.javascript.com/
@@ -60,4 +61,6 @@ Loves DIY<img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/ma
 [vagrant]: https://www.vagrantup.com/
 [potterhead]: https://www.wizardingworld.com/
 [discord]: https://discord.gg/D8hyQsF
+[Telegram]: https://t.me/akshaych203
+[certification]: https://github.com/Akshaychdev/Akshaychdev.github.io/blob/master/docs/certifications.md
 [git]: https://git-scm.com/
