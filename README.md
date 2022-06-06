@@ -1,29 +1,14 @@
 <!--[![flyhigh][banner]]-->
-### Hi there <img src="https://github.com/Akshaychdev/Freecodecamp-projects/blob/master/images/wave.gif?raw=true" width="30px">
-### I'm Aksahy Chandran,a passionate web-developer from India, primerly uses [Python][python], [Django][django], [Django-Rest][django_rest] also learning [javascript][javascript] aiming🔭 a full-stack 🏠.
-#### Looking to contribute on open-source projects, 💞 Teamwork👨‍👩‍👦‍👦.
-
-Loves DIY<img src="https://github.com/Akshay-ch-dj/Freecodecamp-projects/blob/master/images/lightning.gif?raw=true" width="30px">, Sci-Fi movies, music...
+### Hi there 👋
+### I'm Aksahy Chandran,working as devops engineer, also interested and worked on web-development, loves 🐍 python.
 <!--
 **Akshay-ch-dj/Akshay-ch-dj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Akshay-ch-dj)
 
-- 💜 **Loving** [Python][python]🐍, [Django][django] 
-
-- 🔭 **Currently working on**: ***Audiobook store***- A website to post and buy audiobooks, also working on [javascript](https://github.com/Akshay-ch-dj/Javascript-experience-projects) projects.
- 
-- 🌱 **Currently learning**: [javascript][javascript], [Vue.js][vue], frontend libraries in freecodecamp and Automation with python in coursera.
-   
-- 👯 I’m looking to collaborate on: **Open Source Projects**.
-<!-- 🤔 I’m looking for help with ...-->
-- 💬 **Ask me about** python, Django, my repo's and projects
-
 - 🎓 **certifications** my [certifications][certification].
 
 - 📫 **How to reach me**: You can find me on [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)][Telegram], [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=002b59)][discord]: ([Akshay_wdev#5871][discord]).
-<!-- 😄 Pronouns: ...-->
-- ⚡ Bio: **Potterhead**[🧹️][potterhead], 🎧**ARR**, 90's kids <img src="https://img.shields.io/badge/-SWAG-ff9f40?style=social&logo=Windows-XP&logoColor=1c56ba">
 
 <!--🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
