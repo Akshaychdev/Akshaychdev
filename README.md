@@ -8,7 +8,9 @@
 
 - 🎓 **certifications** my [certifications][certification].
 
-- 📫 **How to reach me**: You can find me on [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)][Telegram], [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=002b59)][discord]
+- 📫 **How to reach me**: You can find me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin], [![Discord](https://img.shields.io/badge/-Discord-7289da?style=flat&logo=Discord&logoColor=002b59)][discord]
+
+<!-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)][Telegram] -->
 
 <!--🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
