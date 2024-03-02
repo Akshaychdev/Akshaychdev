@@ -1,8 +1,12 @@
 <!--[![flyhigh][banner]]-->
 ### Hi there 👋
-### I'm Aksahy Chandran,working as devops engineer, also interested and worked on web-development, loves 🐍 python.
+### I'm Aksahy Chandran, a DevOps engineer with a flair for web development. 
+
+Beyond managing infrastructure and streamlining processes, I explore the vast world of web tech.
 
 <!-- [![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshaychdev)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+<!-- https://www.bitmoji.com/stickers/ -->
 
 [![forthebadge made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/Akshaychdev)
 
